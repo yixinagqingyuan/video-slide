@@ -1,0 +1,1380 @@
+{
+    "msg": "操作成功",
+    "code": 0,
+    "data": {
+        "tracelog": {
+            "open": "1",
+            "pagetype": "gjqyinfolist",
+            "pid": "389508829374382080",
+            "targeturl": "https://zpcollect.58.com/logs/app/ganji",
+            "time": "3000"
+        },
+        "enterprises": [
+            {
+                "aliasName": "新辣道",
+                "cityIndustryScale": "餐饮业 · 10-49人",
+                "dataType": 0,
+                "dataTypeStr": "entDict",
+                "detailUrl": "wbganji://jump/core/common?params=%7B%22settings%22%3A%7B%22contain_status_bar%22%3Afalse%2C%22hide_title_panel%22%3Atrue%7D%2C%22webType%22%3A%22wkWebview%22%2C%22url%22%3A%22https%3A%2F%2Fgjbusiness.ganji.com%2Fenterprise%2Fhomepage%3Fqid%3D6256003248%26cityid%3D1%26listindex%3D19%26from%3Dpc_list%26visitmark%3D8ee01108-ebc6-41c7-9e4c-0ad27f95273e%26datatype%3D0%26cursorindex%3D19%22%7D",
+                "entStoreVO": {
+                    "address": "北京市房山区政通南路2号院1号楼六层03(商业)",
+                    "coordinate": "116.14711,39.751979",
+                    "id": 86005021581,
+                    "name": "新辣道火锅鱼",
+                    "postdate": "2022/01/16",
+                    "qid": 6256003248,
+                    "video": "https://wos2.58cdn.com.cn/DeFazYxWvDti/frsupload/d49662adaebeda888972bb3703e8a375.mp4",
+                    "videoImg": "https://pic3.58cdn.com.cn/nowater/frs/n_v22f8aefa579b5450997ae6b867b145d08.jpg"
+                },
+                "enterpriseName": "北京新辣道餐饮管理有限公司房山第二餐饮分公司",
+                "enterpriseTagNamesV2": [
+                    {
+                        "tagName": "包吃"
+                    },
+                    {
+                        "tagName": "包住"
+                    },
+                    {
+                        "tagName": "免费培训"
+                    }
+                ],
+                "hotJobCount": 2,
+                "logo": "https://pic3.58cdn.com.cn/nowater/entdict/logo/n_v24bd192e7f51f483d86bb198084999fd7.jpg?h=60&w=60",
+                "qid": 6256003248,
+                "recommendJob": {
+                    "apply": 0,
+                    "cateName": "服务员",
+                    "city": "房山·良乡",
+                    "education": "学历不限",
+                    "headPortrait": "",
+                    "identity": "",
+                    "infoId": 48184323373875,
+                    "localId": 1,
+                    "mdetailUrl": "http://m.ganji.com/bj/zplvyoujiudian/48184323373875/?tjfrom=m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123724__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ4MTg0MzIzMzczODc1Iiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "salary": "4200-5000元",
+                    "state": 0,
+                    "subTitle": "房山·良乡·学历不限·经验不限",
+                    "tags": [
+                        {
+                            "tagName": "包吃"
+                        },
+                        {
+                            "tagName": "包住"
+                        }
+                    ],
+                    "title": "服务员",
+                    "tjfrom": "m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123724__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ4MTg0MzIzMzczODc1Iiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "traceLogExt": "{\"scate\":\"9224,13915,9640\",\"infotype\":\"5,I\",\"b\":83709079609134,\"infolocal\":\"1,6808,6866\",\"c\":\"A507542E471A074549460CF007328E0A\",\"sloc\":\"1,6808,6866\",\"infocate\":\"574,606,2169\"}",
+                    "userId": 83709079609134,
+                    "userName": "用户25316",
+                    "workYear": "经验不限"
+                },
+                "shopPhoto": "https://wos4.58cdn.com.cn/hIOEdCbAZyhl/zpsurveyimage/163e6637c29097be64ae6dd38cd9d4cd.jpg",
+                "videoBean": [
+                    {
+                        "videoPath": {
+                            "tradeline": "job",
+                            "action": "pagetrans",
+                            "content": {
+                                "picurl": "/userauth/pp/n_v21003a2bbfa054ce78fe148ed8d3a67ef.jpg?w=960&h=544",
+                                "pagetype": "video",
+                                "videoCoverFillMode": "scaleAspectFit",
+                                "title": "北京新辣道餐饮管理有限公司房山第二餐饮分公司",
+                                "url": "https://wos.58cdn.com.cn/RsPoNmLkRXw/zcmcompanyvideo/zcm_a15724252253749e0ef830-a8ec-4061-a3b1-a0645020ea42.mp4",
+                                "autoplay": true
+                            }
+                        },
+                        "videoPicture": "/userauth/pp/n_v21003a2bbfa054ce78fe148ed8d3a67ef.jpg"
+                    },
+                    {
+                        "videoPath": {
+                            "tradeline": "job",
+                            "action": "pagetrans",
+                            "content": {
+                                "picurl": "/userauth/pp/n_v27b65a5dde1aa4b59b39b7d09938e0c45.jpg?w=720&h=576",
+                                "pagetype": "video",
+                                "videoCoverFillMode": "scaleAspectFit",
+                                "title": "北京新辣道餐饮管理有限公司房山第二餐饮分公司",
+                                "url": "https://wos.58cdn.com.cn/RsPoNmLkRXw/zcmcompanyvideo/zcm_a15724251490650ecd021d-b932-4c3a-8f83-02c3068d3581.mp4",
+                                "autoplay": true
+                            }
+                        },
+                        "videoPicture": "/userauth/pp/n_v27b65a5dde1aa4b59b39b7d09938e0c45.jpg"
+                    }
+                ]
+            },
+            {
+                "aliasName": "和美盛世",
+                "cityIndustryScale": "商务服务业 · 10-49人",
+                "dataType": 0,
+                "dataTypeStr": "entDict",
+                "detailUrl": "wbganji://jump/core/common?params=%7B%22settings%22%3A%7B%22contain_status_bar%22%3Afalse%2C%22hide_title_panel%22%3Atrue%7D%2C%22webType%22%3A%22wkWebview%22%2C%22url%22%3A%22https%3A%2F%2Fgjbusiness.ganji.com%2Fenterprise%2Fhomepage%3Fqid%3D6281316326%26cityid%3D1%26listindex%3D20%26from%3Dpc_list%26visitmark%3D8ee01108-ebc6-41c7-9e4c-0ad27f95273e%26datatype%3D0%26cursorindex%3D20%22%7D",
+                "entStoreVO": {
+                    "address": "北京市朝阳区常营丽景园4号楼1层1-04",
+                    "coordinate": "116.616395,39.931083",
+                    "id": 85893044124,
+                    "name": "和美数码快印",
+                    "postdate": "2022/01/08",
+                    "qid": 6281316326,
+                    "video": "https://wos2.58cdn.com.cn/DeFazYxWvDti/frsupload/4823edfb954097e0b9dfe1b6a20c37bf.mp4",
+                    "videoImg": "https://pic6.58cdn.com.cn/nowater/frs/n_v245e96042b73c471db7fd4cc719af6d90.jpg"
+                },
+                "enterpriseName": "北京和美盛世图文广告设计有限公司",
+                "enterpriseTagNamesV2": [
+                    {
+                        "tagName": "五险一金"
+                    },
+                    {
+                        "tagName": "包住"
+                    },
+                    {
+                        "tagName": "加班补助"
+                    }
+                ],
+                "hotJobCount": 10,
+                "logo": "https://pic3.58cdn.com.cn/userauth/pp/n_v2fded9a07a847409ba3c079570b6bb560.jpg?h=60&w=60",
+                "qid": 6281316326,
+                "recommendJob": {
+                    "apply": 0,
+                    "cateName": "制作执行",
+                    "city": "朝阳",
+                    "education": "学历不限",
+                    "headPortrait": "https://pic1.58cdn.com.cn//userauth/pp/n_v2810d3dac9de342b2af301fb68f99f534.jpg",
+                    "identity": "老板",
+                    "infoId": 38310249143425,
+                    "localId": 1,
+                    "mdetailUrl": "http://m.ganji.com/bj/zpguanggao/38310249143425/?tjfrom=m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123725__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjM4MzEwMjQ5MTQzNDI1Iiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "salary": "2500-4000元",
+                    "state": 0,
+                    "subTitle": "朝阳·学历不限·经验不限",
+                    "tags": [
+                        {
+                            "tagName": "包住"
+                        },
+                        {
+                            "tagName": "包吃"
+                        }
+                    ],
+                    "title": "图文快印后期及学徒",
+                    "tjfrom": "m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123725__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjM4MzEwMjQ5MTQzNDI1Iiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "traceLogExt": "{\"scate\":\"9224,13918,61108\",\"infotype\":\"5,I\",\"b\":63867284457482,\"infolocal\":\"1,1138\",\"c\":\"A507542E471A074549460CF007328E0A\",\"sloc\":\"1,1138\",\"infocate\":\"574,610,3815\"}",
+                    "userId": 63867284457482,
+                    "userName": "段先生",
+                    "workYear": "经验不限"
+                },
+                "shopPhoto": ""
+            },
+            {
+                "aliasName": "多尚颜",
+                "cityIndustryScale": "咨询与调查 · 1-9人",
+                "dataType": 0,
+                "dataTypeStr": "entDict",
+                "detailUrl": "wbganji://jump/core/common?params=%7B%22settings%22%3A%7B%22contain_status_bar%22%3Afalse%2C%22hide_title_panel%22%3Atrue%7D%2C%22webType%22%3A%22wkWebview%22%2C%22url%22%3A%22https%3A%2F%2Fgjbusiness.ganji.com%2Fenterprise%2Fhomepage%3Fqid%3D24503686124%26cityid%3D1%26listindex%3D21%26from%3Dpc_list%26visitmark%3D8ee01108-ebc6-41c7-9e4c-0ad27f95273e%26datatype%3D0%26cursorindex%3D21%22%7D",
+                "entStoreVO": {
+                    "address": "北京市东城区永定门西滨河路8号院1楼1至2层1-1",
+                    "coordinate": "116.395907,39.876405",
+                    "id": 86003487420,
+                    "name": "多尚颜美容养生",
+                    "postdate": "2022/01/13",
+                    "qid": 24503686124,
+                    "video": "https://wos2.58cdn.com.cn/DeFazYxWvDti/frsupload/5388f19a994865a7b86607b7b9508556.mp4",
+                    "videoImg": "https://pic3.58cdn.com.cn/nowater/frs/n_v2d86dc22216464a13935dcd4107cc9ac2.jpg"
+                },
+                "enterpriseName": "北京多尚颜美容养生有限公司",
+                "enterpriseTagNamesV2": [
+                    {
+                        "tagName": "五险一金"
+                    },
+                    {
+                        "tagName": "包吃"
+                    },
+                    {
+                        "tagName": "房补"
+                    }
+                ],
+                "hotInfoCateNames": "人事/行政/后勤、家政保洁/安保、美容/美发",
+                "hotJobCount": 4,
+                "logo": "https://pic3.58cdn.com.cn/userauth/pp/n_v2b0fb80e3ced448c3a977fa8c5b4bff37.jpg?h=60&w=60",
+                "qid": 24503686124,
+                "recommendJob": {
+                    "apply": 0,
+                    "cateName": "美容店长",
+                    "city": "东城·永定门",
+                    "education": "学历不限",
+                    "headPortrait": "https://pic1.58cdn.com.cn/m1/bigimage/n_v1bj3gzscn44lvsiy7wrqq.jpg",
+                    "identity": "经理",
+                    "infoId": 45493979544586,
+                    "localId": 1,
+                    "mdetailUrl": "http://m.ganji.com/bj/meirongjianshen/45493979544586/?tjfrom=m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123726__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ1NDkzOTc5NTQ0NTg2Iiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "salary": "15000-20000元",
+                    "state": 0,
+                    "subTitle": "东城·永定门·学历不限·3-5年",
+                    "tags": [
+                        {
+                            "tagName": "五险一金"
+                        },
+                        {
+                            "tagName": "包吃"
+                        },
+                        {
+                            "tagName": "周末双休"
+                        },
+                        {
+                            "tagName": "年底双薪"
+                        }
+                    ],
+                    "title": "优秀美容店长",
+                    "tjfrom": "m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123726__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ1NDkzOTc5NTQ0NTg2Iiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "traceLogExt": "{\"scate\":\"9224,13933,9797\",\"infotype\":\"5,I\",\"b\":25226165864967,\"infolocal\":\"1,1138,1184\",\"c\":\"A507542E471A074549460CF007328E0A\",\"sloc\":\"1,1138,1184\",\"infocate\":\"574,630,2381\"}",
+                    "userId": 25226165864967,
+                    "userName": "holly",
+                    "workYear": "3-5年"
+                },
+                "shopPhoto": "",
+                "videoBean": [
+                    {
+                        "videoPath": {
+                            "tradeline": "job",
+                            "action": "pagetrans",
+                            "content": {
+                                "picurl": "/userauth/pp/n_v2581ff5971de34f4f94e593d92bf85640.jpg?w=960&h=544",
+                                "pagetype": "video",
+                                "videoCoverFillMode": "scaleAspectFit",
+                                "title": "北京多尚颜美容养生有限公司",
+                                "url": "https://wos.58cdn.com.cn/RsPoNmLkRXw/zcmcompanyvideo/zcm_i8C06BF55DC33D9FB361912B7C2A9D9A2",
+                                "autoplay": true
+                            }
+                        },
+                        "videoPicture": "/userauth/pp/n_v2581ff5971de34f4f94e593d92bf85640.jpg"
+                    }
+                ]
+            },
+            {
+                "aliasName": "怡科世纪",
+                "cityIndustryScale": "科技推广和应用服务业 · 100-499人",
+                "dataType": 0,
+                "dataTypeStr": "entDict",
+                "detailUrl": "wbganji://jump/core/common?params=%7B%22settings%22%3A%7B%22contain_status_bar%22%3Afalse%2C%22hide_title_panel%22%3Atrue%7D%2C%22webType%22%3A%22wkWebview%22%2C%22url%22%3A%22https%3A%2F%2Fgjbusiness.ganji.com%2Fenterprise%2Fhomepage%3Fqid%3D6210274967%26cityid%3D1%26listindex%3D22%26from%3Dpc_list%26visitmark%3D8ee01108-ebc6-41c7-9e4c-0ad27f95273e%26datatype%3D0%26cursorindex%3D22%22%7D",
+                "entStoreVO": {
+                    "address": "北京市朝阳区广顺北大街29号",
+                    "coordinate": "116.473816,40.003812",
+                    "id": 86005021493,
+                    "name": "中国移动",
+                    "postdate": "2022/01/13",
+                    "qid": 6210274967,
+                    "video": "https://wos2.58cdn.com.cn/DeFazYxWvDti/frsupload/6c9b4ecfac361adeac7d072f17c32798.mp4",
+                    "videoImg": "https://pic5.58cdn.com.cn/nowater/frs/n_v2585316baa8254dafb7ed046f77379ba9.jpg"
+                },
+                "enterpriseName": "北京怡科世纪科贸有限公司",
+                "enterpriseTagNamesV2": [
+                    {
+                        "tagName": "VR实景"
+                    },
+                    {
+                        "tagName": "免费培训"
+                    },
+                    {
+                        "tagName": "加班补助"
+                    },
+                    {
+                        "tagName": "免费下午茶"
+                    }
+                ],
+                "hotJobCount": 13,
+                "logo": "https://pic3.58cdn.com.cn/enterprise/appearance/small/n_v21fec28c0d5014345a1cb0f529912b907.png",
+                "qid": 6210274967,
+                "recommendJob": {
+                    "apply": 0,
+                    "cateName": "网络/在线客服",
+                    "city": "东城·永定门",
+                    "education": "学历不限",
+                    "headPortrait": "https://pic1.58cdn.com.cn/m1/bigimage/n_v26e1ffcb47dfa43fc97e60f32f026c5bb.png",
+                    "identity": "经理",
+                    "infoId": 46514549750923,
+                    "localId": 1,
+                    "mdetailUrl": "http://m.ganji.com/bj/kefu/46514549750923/?tjfrom=m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123727__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ2NTE0NTQ5NzUwOTIzIiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "salary": "5000-6000元",
+                    "state": 0,
+                    "subTitle": "东城·永定门·学历不限·经验不限",
+                    "tags": [
+                        {
+                            "tagName": "加班补助"
+                        },
+                        {
+                            "tagName": "包住"
+                        },
+                        {
+                            "tagName": "包吃"
+                        },
+                        {
+                            "tagName": "交通补助"
+                        }
+                    ],
+                    "title": "京东在线客服",
+                    "tjfrom": "m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123727__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ2NTE0NTQ5NzUwOTIzIiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "traceLogExt": "{\"scate\":\"9224,13902,59989\",\"infotype\":\"5,I\",\"b\":74726049814570,\"infolocal\":\"1,1138,1184\",\"c\":\"A507542E471A074549460CF007328E0A\",\"sloc\":\"1,1138,1184\",\"infocate\":\"574,581,3788\"}",
+                    "userId": 74726049814570,
+                    "userName": "郝经理",
+                    "workYear": "经验不限"
+                },
+                "shopPhoto": "",
+                "vRbean": {
+                    "coverImgPath": "https://wos2.58cdn.com.cn/EfGbAZyXwEjh/watermarkpicture/130943560D17DEAF108D6B0814959AD4F97CBE_Cover.jpg",
+                    "vrPath": {
+                        "tradeline": "job",
+                        "action": "pagetrans",
+                        "content": {
+                            "pagetype": "common",
+                            "webType": "wkWebview",
+                            "showsift": true,
+                            "title": "北京怡科世纪科贸有限公司",
+                            "url": "https://entdict.ganji.com/vr/entdicId/6210274967"
+                        }
+                    }
+                },
+                "videoBean": [
+                    {
+                        "videoPath": {
+                            "tradeline": "job",
+                            "action": "pagetrans",
+                            "content": {
+                                "picurl": "/userauth/pp/n_v2d7ae80b96c71447b91c87bfe37b4f68c.jpg?w=0&h=0",
+                                "pagetype": "video",
+                                "videoCoverFillMode": "scaleAspectFit",
+                                "title": "北京怡科世纪科贸有限公司",
+                                "url": "https://wos.58cdn.com.cn/RsPoNmLkRXw/zcmcompanyvideo/qy_p1605544079456d029e2d5d1343e8e435e90fa1c9086b0.mp4",
+                                "autoplay": true
+                            }
+                        },
+                        "videoPicture": "/userauth/pp/n_v2d7ae80b96c71447b91c87bfe37b4f68c.jpg"
+                    }
+                ]
+            },
+            {
+                "aliasName": "绿茶餐饮",
+                "cityIndustryScale": "  企业管理服务 · 10-49人",
+                "dataType": 0,
+                "dataTypeStr": "entDict",
+                "detailUrl": "wbganji://jump/core/common?params=%7B%22settings%22%3A%7B%22contain_status_bar%22%3Afalse%2C%22hide_title_panel%22%3Atrue%7D%2C%22webType%22%3A%22wkWebview%22%2C%22url%22%3A%22https%3A%2F%2Fgjbusiness.ganji.com%2Fenterprise%2Fhomepage%3Fqid%3D6252549152%26cityid%3D1%26listindex%3D24%26from%3Dpc_list%26visitmark%3D8ee01108-ebc6-41c7-9e4c-0ad27f95273e%26datatype%3D0%26cursorindex%3D24%22%7D",
+                "entStoreVO": {
+                    "address": "北京市房山区政通南路2号院1号楼五层22(商业)",
+                    "coordinate": "116.151854,39.753532",
+                    "id": 86003487425,
+                    "name": "绿茶（房山龙湖天街）",
+                    "postdate": "2022/01/16",
+                    "qid": 6252549152,
+                    "video": "https://wos2.58cdn.com.cn/DeFazYxWvDti/frsupload/fccead18d783d67672b342c3d83f8eba.mp4",
+                    "videoImg": "https://pic7.58cdn.com.cn/nowater/frs/n_v22210c72db63b4efe91ca591fa5f04476.jpg"
+                },
+                "enterpriseName": "西藏绿茶餐饮管理有限公司北京房山第一分公司",
+                "enterpriseTagNamesV2": [
+                    {
+                        "tagName": "包吃"
+                    },
+                    {
+                        "tagName": "包住"
+                    },
+                    {
+                        "tagName": "房补"
+                    }
+                ],
+                "hotJobCount": 5,
+                "logo": "https://pic3.58cdn.com.cn/userauth/pp/n_v21c118c23ec4d4daa8b7dc161e1bbf749.jpg?h=60&w=60",
+                "qid": 6252549152,
+                "recommendJob": {
+                    "apply": 0,
+                    "cateName": "后厨",
+                    "city": "房山·长阳",
+                    "education": "学历不限",
+                    "headPortrait": "https://pic1.58cdn.com.cn//userauth/pp/n_v2890ede3b92f44ddf9ecd6b14135faba7.jpg",
+                    "identity": "店长",
+                    "infoId": 47700896043543,
+                    "localId": 1,
+                    "mdetailUrl": "http://m.ganji.com/bj/zplvyoujiudian/47700896043543/?tjfrom=m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123729__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ3NzAwODk2MDQzNTQzIiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "salary": "4500-5000元",
+                    "state": 0,
+                    "subTitle": "房山·长阳·学历不限·经验不限",
+                    "tags": [
+                        {
+                            "tagName": "包吃"
+                        },
+                        {
+                            "tagName": "包住"
+                        },
+                        {
+                            "tagName": "房补"
+                        }
+                    ],
+                    "title": "水吧凉菜",
+                    "tjfrom": "m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123729__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ3NzAwODk2MDQzNTQzIiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "traceLogExt": "{\"scate\":\"9224,13915,9651\",\"infotype\":\"5,I\",\"b\":52721203820309,\"infolocal\":\"1,6808,6906\",\"c\":\"A507542E471A074549460CF007328E0A\",\"sloc\":\"1,6808,6906\",\"infocate\":\"574,606,2174\"}",
+                    "userId": 52721203820309,
+                    "userName": "吴炜",
+                    "workYear": "经验不限"
+                },
+                "shopPhoto": ""
+            },
+            {
+                "aliasName": "大力喜",
+                "cityIndustryScale": " · 10-49人",
+                "dataType": 0,
+                "dataTypeStr": "entDict",
+                "detailUrl": "wbganji://jump/core/common?params=%7B%22settings%22%3A%7B%22contain_status_bar%22%3Afalse%2C%22hide_title_panel%22%3Atrue%7D%2C%22webType%22%3A%22wkWebview%22%2C%22url%22%3A%22https%3A%2F%2Fgjbusiness.ganji.com%2Fenterprise%2Fhomepage%3Fqid%3D73638684930%26cityid%3D1%26listindex%3D25%26from%3Dpc_list%26visitmark%3D8ee01108-ebc6-41c7-9e4c-0ad27f95273e%26datatype%3D0%26cursorindex%3D25%22%7D",
+                "entStoreVO": {
+                    "address": "北京市海淀区万寿路凯德晶品购物中心LG层大力喜寿司",
+                    "coordinate": "116.303381,39.914677",
+                    "id": 86005021577,
+                    "name": "大力喜",
+                    "postdate": "2022/01/13",
+                    "qid": 73638684930,
+                    "video": "https://wos2.58cdn.com.cn/DeFazYxWvDti/frsupload/06f9dd422f2c76e501a638945219f073.mp4",
+                    "videoImg": "https://pic7.58cdn.com.cn/nowater/frs/n_v26325b698c1434ff9b38389200f955c7e.jpg"
+                },
+                "enterpriseName": "北京大力喜餐饮管理有限公司",
+                "enterpriseTagNamesV2": [
+                    {
+                        "tagName": "包吃"
+                    },
+                    {
+                        "tagName": "包住"
+                    },
+                    {
+                        "tagName": "年底双薪"
+                    }
+                ],
+                "hotJobCount": 15,
+                "logo": "https://pic3.58cdn.com.cn/userauth/pp/n_v2ad9afeb18f2a47599eda52449747276d.jpg?h=60&w=60",
+                "qid": 73638684930,
+                "recommendJob": {
+                    "apply": 0,
+                    "cateName": "厨工",
+                    "city": "海淀·万寿路",
+                    "education": "学历不限",
+                    "headPortrait": "https://pic1.58cdn.com.cn/m1/bigimage/n_v2c13e456e9ff2441db238d5e2de2df79c.jpg",
+                    "identity": "",
+                    "infoId": 48384907081602,
+                    "localId": 1,
+                    "mdetailUrl": "http://m.ganji.com/bj/zplvyoujiudian/48384907081602/?tjfrom=m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123730__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ4Mzg0OTA3MDgxNjAyIiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "salary": "4000-6000元",
+                    "state": 0,
+                    "subTitle": "海淀·万寿路·学历不限·经验不限",
+                    "tags": [
+                        {
+                            "tagName": "包吃"
+                        },
+                        {
+                            "tagName": "包住"
+                        },
+                        {
+                            "tagName": "房补"
+                        }
+                    ],
+                    "title": "高薪聘厨房大姐",
+                    "tjfrom": "m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123730__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ4Mzg0OTA3MDgxNjAyIiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "traceLogExt": "{\"scate\":\"9224,13915,391728\",\"infotype\":\"5,I\",\"b\":14166562583047,\"infolocal\":\"1,1143,6716\",\"c\":\"A507542E471A074549460CF007328E0A\",\"sloc\":\"1,1143,6716\",\"infocate\":\"574,606,5493\"}",
+                    "userId": 14166562583047,
+                    "userName": "姚宣",
+                    "workYear": "经验不限"
+                },
+                "shopPhoto": "",
+                "videoBean": [
+                    {
+                        "videoPath": {
+                            "tradeline": "job",
+                            "action": "pagetrans",
+                            "content": {
+                                "picurl": "/userauth/pp/n_v28d3350d51655422583c2992d48cc8172.jpg?w=562&h=1000",
+                                "pagetype": "video",
+                                "videoCoverFillMode": "scaleAspectFit",
+                                "title": "北京大力喜餐饮管理有限公司",
+                                "url": "https://wos.58cdn.com.cn/RsPoNmLkRXw/zcmcompanyvideo/zcm_iE69F4351C72D0051F9E1C0C25556CA27",
+                                "autoplay": true
+                            }
+                        },
+                        "videoPicture": "/userauth/pp/n_v28d3350d51655422583c2992d48cc8172.jpg"
+                    }
+                ]
+            },
+            {
+                "aliasName": "天祺鑫",
+                "cityIndustryScale": "组织管理服务 · 10-49人",
+                "dataType": 0,
+                "dataTypeStr": "entDict",
+                "detailUrl": "wbganji://jump/core/common?params=%7B%22settings%22%3A%7B%22contain_status_bar%22%3Afalse%2C%22hide_title_panel%22%3Atrue%7D%2C%22webType%22%3A%22wkWebview%22%2C%22url%22%3A%22https%3A%2F%2Fgjbusiness.ganji.com%2Fenterprise%2Fhomepage%3Fqid%3D13073710068%26cityid%3D1%26listindex%3D26%26from%3Dpc_list%26visitmark%3D8ee01108-ebc6-41c7-9e4c-0ad27f95273e%26datatype%3D0%26cursorindex%3D26%22%7D",
+                "entStoreVO": {
+                    "address": "北京市朝阳区工人体育场北路8号院1号楼2层1222",
+                    "coordinate": "116.460145,39.938848",
+                    "id": 85893044127,
+                    "name": "好好妈燕鲜炖燕窝",
+                    "postdate": "2022/01/08",
+                    "qid": 13073710068,
+                    "video": "https://wos2.58cdn.com.cn/DeFazYxWvDti/frsupload/d4d849ce928c3399d99085734e1fa1c6.mp4",
+                    "videoImg": "https://pic6.58cdn.com.cn/nowater/frs/n_v2d3a07c113f2c41dbbc2c6de440a5d0c7.jpg"
+                },
+                "enterpriseName": "北京天祺鑫餐饮管理有限公司",
+                "enterpriseTagNamesV2": [
+                    {
+                        "tagName": "五险一金"
+                    },
+                    {
+                        "tagName": "包住"
+                    },
+                    {
+                        "tagName": "环境好"
+                    }
+                ],
+                "hotJobCount": 1,
+                "logo": "http://pic4.58cdn.com.cn/vip/wzp/pic/n_v1bl2lwwpahptfnpppzroa.jpg?h=60&w=60",
+                "qid": 13073710068,
+                "recommendJob": {
+                    "apply": 0,
+                    "cateName": "店员/营业员",
+                    "city": "朝阳·工体",
+                    "education": "高中",
+                    "headPortrait": "https://pic1.58cdn.com.cn/m1/bigimage/n_v222e0784b5cdc440aa4d75eadd773f656.jpg",
+                    "identity": "总经理",
+                    "infoId": 48291524897541,
+                    "localId": 1,
+                    "mdetailUrl": "http://m.ganji.com/bj/chaoshishangye/48291524897541/?tjfrom=m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123731__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ4MjkxNTI0ODk3NTQxIiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "salary": "5000-8000元",
+                    "state": 0,
+                    "subTitle": "朝阳·工体·高中·经验不限",
+                    "tags": [
+                        {
+                            "tagName": "五险一金"
+                        },
+                        {
+                            "tagName": "包住"
+                        }
+                    ],
+                    "title": "燕窝糖水师",
+                    "tjfrom": "m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123731__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ4MjkxNTI0ODk3NTQxIiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "traceLogExt": "{\"scate\":\"9224,13802,13810\",\"infotype\":\"5,I\",\"b\":36574369092119,\"infolocal\":\"1,1142,5826\",\"c\":\"A507542E471A074549460CF007328E0A\",\"sloc\":\"1,1142,5826\",\"infocate\":\"574,706,2488\"}",
+                    "userId": 36574369092119,
+                    "userName": "周女士",
+                    "workYear": "经验不限"
+                },
+                "shopPhoto": ""
+            },
+            {
+                "aliasName": "泰康苑",
+                "cityIndustryScale": "洗浴和保健养生服务 · 10-49人",
+                "dataType": 0,
+                "dataTypeStr": "entDict",
+                "detailUrl": "wbganji://jump/core/common?params=%7B%22settings%22%3A%7B%22contain_status_bar%22%3Afalse%2C%22hide_title_panel%22%3Atrue%7D%2C%22webType%22%3A%22wkWebview%22%2C%22url%22%3A%22https%3A%2F%2Fgjbusiness.ganji.com%2Fenterprise%2Fhomepage%3Fqid%3D6191910612%26cityid%3D1%26listindex%3D27%26from%3Dpc_list%26visitmark%3D8ee01108-ebc6-41c7-9e4c-0ad27f95273e%26datatype%3D0%26cursorindex%3D27%22%7D",
+                "entStoreVO": {
+                    "address": "北京石景山鲁谷五芳园15号楼商业街",
+                    "coordinate": "116.231037,39.904841",
+                    "id": 85893044056,
+                    "name": "京点盲人按摩",
+                    "postdate": "2022/01/12",
+                    "qid": 6191910612,
+                    "video": "https://wos2.58cdn.com.cn/DeFazYxWvDti/frsupload/32537277ae2c8c501d16fab18cff04ff.mp4",
+                    "videoImg": "https://pic7.58cdn.com.cn/nowater/frs/n_v263968a9bd5954a029d0d3e6902c54c36.png"
+                },
+                "enterpriseName": "北京市泰康苑盲人保健按摩院",
+                "enterpriseTagNamesV2": [
+                    {
+                        "tagName": "包吃"
+                    },
+                    {
+                        "tagName": "包住"
+                    },
+                    {
+                        "tagName": "免费培训"
+                    }
+                ],
+                "hotJobCount": 10,
+                "logo": "https://pic3.58cdn.com.cn/enterprise/appearance/small/n_v29c38f2caa0db4abab144209f91e1e1c9.webp",
+                "qid": 6191910612,
+                "recommendJob": {
+                    "apply": 0,
+                    "cateName": "收银员",
+                    "city": "石景山·鲁谷",
+                    "education": "高中",
+                    "headPortrait": "https://pic1.58cdn.com.cn/m1/bigimage/n_v270312cf54d9042f8b77ef13d304ebb3d.jpg",
+                    "identity": "",
+                    "infoId": 47696733665323,
+                    "localId": 1,
+                    "mdetailUrl": "http://m.ganji.com/bj/chaoshishangye/47696733665323/?tjfrom=m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123732__pt__5__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ3Njk2NzMzNjY1MzIzIiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "salary": "4000-8000元",
+                    "state": 0,
+                    "subTitle": "石景山·鲁谷·高中·经验不限",
+                    "tags": [
+                        {
+                            "tagName": "包吃"
+                        },
+                        {
+                            "tagName": "包住"
+                        }
+                    ],
+                    "title": "诚招按摩院前台收银员",
+                    "tjfrom": "m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123732__pt__5__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ3Njk2NzMzNjY1MzIzIiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "traceLogExt": "{\"scate\":\"9224,13802,13804\",\"infotype\":\"5\",\"b\":65951107397650,\"infolocal\":\"1,1145,6065\",\"c\":\"A507542E471A074549460CF007328E0A\",\"sloc\":\"1,1145,6065\",\"infocate\":\"574,706,2486\"}",
+                    "userId": 65951107397650,
+                    "userName": "王经理",
+                    "workYear": "经验不限"
+                },
+                "shopPhoto": ""
+            },
+            {
+                "aliasName": "继涛韵达",
+                "cityIndustryScale": "装卸搬运和仓储业 · 10-49人",
+                "dataType": 0,
+                "dataTypeStr": "entDict",
+                "detailUrl": "wbganji://jump/core/common?params=%7B%22settings%22%3A%7B%22contain_status_bar%22%3Afalse%2C%22hide_title_panel%22%3Atrue%7D%2C%22webType%22%3A%22wkWebview%22%2C%22url%22%3A%22https%3A%2F%2Fgjbusiness.ganji.com%2Fenterprise%2Fhomepage%3Fqid%3D6246610696%26cityid%3D1%26listindex%3D28%26from%3Dpc_list%26visitmark%3D8ee01108-ebc6-41c7-9e4c-0ad27f95273e%26datatype%3D0%26cursorindex%3D28%22%7D",
+                "entStoreVO": {
+                    "address": "北京市丰台区蒲黄榆二里11号楼11-3幢1至4室",
+                    "coordinate": "116.424319,39.876781",
+                    "id": 86003487335,
+                    "name": "韵达快递",
+                    "postdate": "2022/01/10",
+                    "qid": 6246610696,
+                    "video": "https://wos2.58cdn.com.cn/DeFazYxWvDti/frsupload/8a464880acd321bce244ad40993c5141.mp4",
+                    "videoImg": "https://pic6.58cdn.com.cn/nowater/frs/n_v20f70e51cefe74483a9ab00c3a13919e2.jpg"
+                },
+                "enterpriseName": "北京继涛韵达物流有限公司",
+                "enterpriseTagNamesV2": [
+                    {
+                        "tagName": "包吃"
+                    },
+                    {
+                        "tagName": "包住"
+                    },
+                    {
+                        "tagName": "周末双休"
+                    }
+                ],
+                "hotJobCount": 5,
+                "logo": "",
+                "qid": 6246610696,
+                "recommendJob": {
+                    "apply": 0,
+                    "cateName": "快递员",
+                    "city": "丰台·蒲黄榆",
+                    "education": "学历不限",
+                    "headPortrait": "https://pic1.58cdn.com.cn//userauth/pp/n_v25f1f336afc394d9b8125451ef3dcb902.jpg",
+                    "identity": "经理",
+                    "infoId": 45560915259836,
+                    "localId": 1,
+                    "mdetailUrl": "http://m.ganji.com/bj/zpwuliucangchu/45560915259836/?tjfrom=m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123733__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ1NTYwOTE1MjU5ODM2Iiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "salary": "7000-10000元",
+                    "state": 0,
+                    "subTitle": "丰台·蒲黄榆·学历不限·经验不限",
+                    "tags": [
+                        {
+                            "tagName": "包吃"
+                        },
+                        {
+                            "tagName": "包住"
+                        },
+                        {
+                            "tagName": "房补"
+                        },
+                        {
+                            "tagName": "饭补"
+                        }
+                    ],
+                    "title": "招快递员高薪电话联系",
+                    "tjfrom": "m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123733__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ1NTYwOTE1MjU5ODM2Iiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "traceLogExt": "{\"scate\":\"9224,13913,10443\",\"infotype\":\"5,I\",\"b\":16293893638150,\"infolocal\":\"1,1144,6036\",\"c\":\"A507542E471A074549460CF007328E0A\",\"sloc\":\"1,1144,6036\",\"infocate\":\"574,593,2407\"}",
+                    "userId": 16293893638150,
+                    "userName": "陈经理",
+                    "workYear": "经验不限"
+                },
+                "shopPhoto": ""
+            },
+            {
+                "aliasName": "东方麦玺",
+                "cityIndustryScale": "商务服务业 · 10-49人",
+                "dataType": 0,
+                "dataTypeStr": "entDict",
+                "detailUrl": "wbganji://jump/core/common?params=%7B%22settings%22%3A%7B%22contain_status_bar%22%3Afalse%2C%22hide_title_panel%22%3Atrue%7D%2C%22webType%22%3A%22wkWebview%22%2C%22url%22%3A%22https%3A%2F%2Fgjbusiness.ganji.com%2Fenterprise%2Fhomepage%3Fqid%3D6246854817%26cityid%3D1%26listindex%3D29%26from%3Dpc_list%26visitmark%3D8ee01108-ebc6-41c7-9e4c-0ad27f95273e%26datatype%3D0%26cursorindex%3D29%22%7D",
+                "entStoreVO": {
+                    "address": "海淀中土大厦3层",
+                    "coordinate": "116.340619,39.903564",
+                    "id": 86005021491,
+                    "name": "信阳食府",
+                    "postdate": "2022/01/12",
+                    "qid": 6246854817,
+                    "video": "https://wos2.58cdn.com.cn/DeFazYxWvDti/frsupload/7b939042eb28a1211bfbe01c9f12a999.mp4",
+                    "videoImg": "https://pic2.58cdn.com.cn/nowater/frs/n_v28e0057415c1a4081b882cbc02d73f0b3.png"
+                },
+                "enterpriseName": "北京东方麦玺餐饮管理有限公司",
+                "enterpriseTagNamesV2": [
+                    {
+                        "tagName": "VR实景"
+                    },
+                    {
+                        "tagName": "包吃"
+                    },
+                    {
+                        "tagName": "包住"
+                    }
+                ],
+                "hotJobCount": 1,
+                "logo": "",
+                "qid": 6246854817,
+                "recommendJob": {
+                    "apply": 0,
+                    "cateName": "传菜员",
+                    "city": "北京",
+                    "education": "学历不限",
+                    "headPortrait": "https://pic1.58cdn.com.cn/m1/bigimage/n_v1bl2lwkmwznbvpgy6wzwq.jpg",
+                    "identity": "",
+                    "infoId": 48041519637677,
+                    "localId": 1,
+                    "mdetailUrl": "http://m.ganji.com/bj/zplvyoujiudian/48041519637677/?tjfrom=m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123734__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ4MDQxNTE5NjM3Njc3Iiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "salary": "3700-4000元",
+                    "state": 0,
+                    "subTitle": "北京·学历不限·经验不限",
+                    "tags": [
+                        {
+                            "tagName": "包住"
+                        },
+                        {
+                            "tagName": "包吃"
+                        }
+                    ],
+                    "title": "急招传菜员3700+电联",
+                    "tjfrom": "m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123734__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ4MDQxNTE5NjM3Njc3Iiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "traceLogExt": "{\"scate\":\"9224,13915,9643\",\"infotype\":\"5,I\",\"b\":39543007889687,\"infolocal\":\"1\",\"c\":\"A507542E471A074549460CF007328E0A\",\"sloc\":\"1\",\"infocate\":\"574,606,2170\"}",
+                    "userId": 39543007889687,
+                    "userName": "186******89_pwe",
+                    "workYear": "经验不限"
+                },
+                "shopPhoto": "",
+                "vRbean": {
+                    "coverImgPath": "https://pic1.58cdn.com.cn/vrplatform/n_v2737ff126d329416d89c4d9a413f7a786.jpg",
+                    "vrPath": {
+                        "tradeline": "job",
+                        "action": "pagetrans",
+                        "content": {
+                            "pagetype": "common",
+                            "webType": "wkWebview",
+                            "showsift": true,
+                            "title": "北京东方麦玺餐饮管理有限公司",
+                            "url": "https://entdict.ganji.com/vr/entdicId/6246854817"
+                        }
+                    }
+                }
+            },
+            {
+                "aliasName": "宝贝智造",
+                "cityIndustryScale": "科技推广和应用服务业 · 10-49人",
+                "dataType": 0,
+                "dataTypeStr": "entDict",
+                "detailUrl": "wbganji://jump/core/common?params=%7B%22settings%22%3A%7B%22contain_status_bar%22%3Afalse%2C%22hide_title_panel%22%3Atrue%7D%2C%22webType%22%3A%22wkWebview%22%2C%22url%22%3A%22https%3A%2F%2Fgjbusiness.ganji.com%2Fenterprise%2Fhomepage%3Fqid%3D6761578977%26cityid%3D1%26listindex%3D30%26from%3Dpc_list%26visitmark%3D8ee01108-ebc6-41c7-9e4c-0ad27f95273e%26datatype%3D0%26cursorindex%3D30%22%7D",
+                "entStoreVO": {
+                    "address": "北京市朝阳区常通路1号院1号楼-2至5层101内三层3F-15",
+                    "coordinate": "116.607581,39.931084",
+                    "id": 85893044370,
+                    "name": "马博士少儿水训拓展馆",
+                    "postdate": "2022/01/07",
+                    "qid": 6761578977,
+                    "video": "https://wos2.58cdn.com.cn/DeFazYxWvDti/frsupload/60d12ea1ab3cc96e2c4cca8fd5d62ebf.mp4",
+                    "videoImg": "https://pic1.58cdn.com.cn/nowater/frs/n_v208bb43936f374c6096cef019df21af90.jpg"
+                },
+                "enterpriseName": "北京宝贝智造科技有限公司",
+                "enterpriseTagNamesV2": [
+                    {
+                        "tagName": "包住"
+                    },
+                    {
+                        "tagName": "交通补助"
+                    },
+                    {
+                        "tagName": "饭补"
+                    }
+                ],
+                "hotJobCount": 1,
+                "logo": "",
+                "qid": 6761578977,
+                "recommendJob": {
+                    "apply": 0,
+                    "cateName": "销售代表",
+                    "city": "朝阳·常营",
+                    "education": "学历不限",
+                    "headPortrait": "https://pic1.58cdn.com.cn/m1/bigimage/n_s12768416620365670074.jpg",
+                    "identity": "经理",
+                    "infoId": 48549004404531,
+                    "localId": 1,
+                    "mdetailUrl": "http://m.ganji.com/bj/yewu/48549004404531/?tjfrom=m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123735__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ4NTQ5MDA0NDA0NTMxIiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "salary": "面议",
+                    "state": 0,
+                    "subTitle": "朝阳·常营·学历不限·经验不限",
+                    "tags": [
+                        {
+                            "tagName": "包住"
+                        },
+                        {
+                            "tagName": "交通补助"
+                        },
+                        {
+                            "tagName": "饭补"
+                        }
+                    ],
+                    "title": "游泳课程销售",
+                    "tjfrom": "m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123735__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ4NTQ5MDA0NDA0NTMxIiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "traceLogExt": "{\"scate\":\"9224,13901,9546\",\"infotype\":\"5,I\",\"b\":29588582951947,\"infolocal\":\"1,1142,6009\",\"c\":\"A507542E471A074549460CF007328E0A\",\"sloc\":\"1,1142,6009\",\"infocate\":\"574,580,2626\"}",
+                    "userId": 29588582951947,
+                    "userName": "赵店长",
+                    "workYear": "经验不限"
+                },
+                "shopPhoto": "",
+                "videoBean": [
+                    {
+                        "videoPath": {
+                            "tradeline": "job",
+                            "action": "pagetrans",
+                            "content": {
+                                "picurl": "http://pic1.58cdn.com.cn/userauth/pp/n_v2ba361d6bb6f141e6a76e35568627136c.jpg?w=0&h=0",
+                                "pagetype": "video",
+                                "videoCoverFillMode": "scaleAspectFit",
+                                "title": "北京宝贝智造科技有限公司",
+                                "url": "https://wos.58cdn.com.cn/RsPoNmLkRXw/zcmcompanyvideo/zcm_i49F65FA1C9F02555AF0755EC741AE2B8",
+                                "autoplay": true
+                            }
+                        },
+                        "videoPicture": "http://pic1.58cdn.com.cn/userauth/pp/n_v2ba361d6bb6f141e6a76e35568627136c.jpg"
+                    }
+                ]
+            },
+            {
+                "aliasName": "朋聚餐饮",
+                "cityIndustryScale": "组织管理服务 · 10-49人",
+                "dataType": 0,
+                "dataTypeStr": "entDict",
+                "detailUrl": "wbganji://jump/core/common?params=%7B%22settings%22%3A%7B%22contain_status_bar%22%3Afalse%2C%22hide_title_panel%22%3Atrue%7D%2C%22webType%22%3A%22wkWebview%22%2C%22url%22%3A%22https%3A%2F%2Fgjbusiness.ganji.com%2Fenterprise%2Fhomepage%3Fqid%3D13326608478%26cityid%3D1%26listindex%3D31%26from%3Dpc_list%26visitmark%3D8ee01108-ebc6-41c7-9e4c-0ad27f95273e%26datatype%3D0%26cursorindex%3D31%22%7D",
+                "entStoreVO": {
+                    "address": "北京市房山区长阳镇奥特莱斯二期三层",
+                    "coordinate": "116.190824,39.770222",
+                    "id": 86005021706,
+                    "name": "乌巢披萨主义主题餐厅",
+                    "postdate": "2022/01/19",
+                    "qid": 13326608478,
+                    "video": "https://wos2.58cdn.com.cn/DeFazYxWvDti/frsupload/63ec2c57d7d690f990a788c5eae9316f.mp4",
+                    "videoImg": "https://pic6.58cdn.com.cn/nowater/frs/n_v28a3db938e011442ea393109c216b1f08.jpg"
+                },
+                "enterpriseName": "北京朋聚餐饮管理有限公司",
+                "enterpriseTagNamesV2": [
+                    {
+                        "tagName": "包吃"
+                    },
+                    {
+                        "tagName": "包住"
+                    },
+                    {
+                        "tagName": "加班补助"
+                    }
+                ],
+                "hotJobCount": 1,
+                "logo": "",
+                "qid": 13326608478,
+                "recommendJob": {
+                    "apply": 0,
+                    "cateName": "收银员",
+                    "city": "房山·长阳",
+                    "education": "学历不限",
+                    "headPortrait": "https://pic1.58cdn.com.cn/m1/bigimage/n_v27713518119d542e1a16e8a427fc18a3c.jpg",
+                    "identity": "店长",
+                    "infoId": 43340064835090,
+                    "localId": 1,
+                    "mdetailUrl": "http://m.ganji.com/bj/chaoshishangye/43340064835090/?tjfrom=m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123736__pt__5__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQzMzQwMDY0ODM1MDkwIiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "salary": "4000-6000元",
+                    "state": 0,
+                    "subTitle": "房山·长阳·学历不限·经验不限",
+                    "tags": [
+                        {
+                            "tagName": "包吃"
+                        },
+                        {
+                            "tagName": "包住"
+                        }
+                    ],
+                    "title": "收银员",
+                    "tjfrom": "m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123736__pt__5__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQzMzQwMDY0ODM1MDkwIiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "traceLogExt": "{\"scate\":\"9224,13802,13804\",\"infotype\":\"5\",\"b\":74020805503499,\"infolocal\":\"1,6808,6906\",\"c\":\"A507542E471A074549460CF007328E0A\",\"sloc\":\"1,6808,6906\",\"infocate\":\"574,706,2486\"}",
+                    "userId": 74020805503499,
+                    "userName": "刘大哥",
+                    "workYear": "经验不限"
+                },
+                "shopPhoto": ""
+            },
+            {
+                "aliasName": "素颜家政",
+                "cityIndustryScale": "家庭服务 · 50-99人",
+                "dataType": 0,
+                "dataTypeStr": "entDict",
+                "detailUrl": "wbganji://jump/core/common?params=%7B%22settings%22%3A%7B%22contain_status_bar%22%3Afalse%2C%22hide_title_panel%22%3Atrue%7D%2C%22webType%22%3A%22wkWebview%22%2C%22url%22%3A%22https%3A%2F%2Fgjbusiness.ganji.com%2Fenterprise%2Fhomepage%3Fqid%3D13335233375%26cityid%3D1%26listindex%3D32%26from%3Dpc_list%26visitmark%3D8ee01108-ebc6-41c7-9e4c-0ad27f95273e%26datatype%3D0%26cursorindex%3D32%22%7D",
+                "entStoreVO": {
+                    "address": "北京市朝阳区五里桥二街2号院5号楼10层1020",
+                    "coordinate": "116.626198,39.932146",
+                    "id": 85892709957,
+                    "name": "素颜家政服务",
+                    "postdate": "2022/01/09",
+                    "qid": 13335233375,
+                    "video": "https://wos2.58cdn.com.cn/DeFazYxWvDti/frsupload/064d4f0b42c62ed4d7bcdd8be710f782.mp4",
+                    "videoImg": "https://pic2.58cdn.com.cn/nowater/frs/n_v2cf3d435b4c284c158908a34285e021df.jpg"
+                },
+                "enterpriseName": "北京素颜家政服务有限公司",
+                "enterpriseTagNamesV2": [
+                    {
+                        "tagName": "VR实景"
+                    }
+                ],
+                "hotJobCount": 10,
+                "logo": "",
+                "qid": 13335233375,
+                "shopPhoto": "",
+                "vRbean": {
+                    "coverImgPath": "https://pic1.58cdn.com.cn/vrplatform/n_v27373fa2a3c424064b0d7c6b3d309e867.jpg",
+                    "vrPath": {
+                        "tradeline": "job",
+                        "action": "pagetrans",
+                        "content": {
+                            "pagetype": "common",
+                            "webType": "wkWebview",
+                            "showsift": true,
+                            "title": "北京素颜家政服务有限公司",
+                            "url": "https://entdict.ganji.com/vr/entdicId/13335233375"
+                        }
+                    }
+                }
+            },
+            {
+                "aliasName": "鑫宇旺兴",
+                "cityIndustryScale": "餐饮业 · 10-49人",
+                "dataType": 0,
+                "dataTypeStr": "entDict",
+                "detailUrl": "wbganji://jump/core/common?params=%7B%22settings%22%3A%7B%22contain_status_bar%22%3Afalse%2C%22hide_title_panel%22%3Atrue%7D%2C%22webType%22%3A%22wkWebview%22%2C%22url%22%3A%22https%3A%2F%2Fgjbusiness.ganji.com%2Fenterprise%2Fhomepage%3Fqid%3D6477254421%26cityid%3D1%26listindex%3D33%26from%3Dpc_list%26visitmark%3D8ee01108-ebc6-41c7-9e4c-0ad27f95273e%26datatype%3D0%26cursorindex%3D33%22%7D",
+                "entStoreVO": {
+                    "address": "平谷区谷丰东路",
+                    "coordinate": "117.12543,40.158135",
+                    "id": 86003487542,
+                    "name": "马路边边串串香（平谷店）",
+                    "postdate": "2022/01/18",
+                    "qid": 6477254421,
+                    "video": "https://wos2.58cdn.com.cn/DeFazYxWvDti/frsupload/630dc20d7f8dc9aa413e7bd06873385a.mp4",
+                    "videoImg": "https://pic5.58cdn.com.cn/nowater/frs/n_v2aba79cbf038c48a083525465f38d1404.jpg"
+                },
+                "enterpriseName": "北京鑫宇旺兴餐饮有限公司",
+                "enterpriseTagNamesV2": [
+                    {
+                        "tagName": "包吃"
+                    },
+                    {
+                        "tagName": "包住"
+                    }
+                ],
+                "hotJobCount": 4,
+                "logo": "",
+                "qid": 6477254421,
+                "recommendJob": {
+                    "apply": 0,
+                    "cateName": "服务员",
+                    "city": "平谷·渔阳",
+                    "education": "高中",
+                    "headPortrait": "https://pic1.58cdn.com.cn//userauth/pp/n_v2b2d2fe65f7e04ea3b40006cc6dca81f2.jpg",
+                    "identity": "店长",
+                    "infoId": 43405845004324,
+                    "localId": 1,
+                    "mdetailUrl": "http://m.ganji.com/bj/zplvyoujiudian/43405845004324/?tjfrom=m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123738__pt__5__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQzNDA1ODQ1MDA0MzI0Iiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "salary": "3000-5000元",
+                    "state": 0,
+                    "subTitle": "平谷·渔阳·高中·1-2年",
+                    "tags": [
+                        {
+                            "tagName": "包吃"
+                        },
+                        {
+                            "tagName": "包住"
+                        }
+                    ],
+                    "title": "服务员+包吃住+高奖金",
+                    "tjfrom": "m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123738__pt__5__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQzNDA1ODQ1MDA0MzI0Iiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "traceLogExt": "{\"scate\":\"9224,13915,9640\",\"infotype\":\"5\",\"b\":37814278849039,\"infolocal\":\"1,6814,14549\",\"c\":\"A507542E471A074549460CF007328E0A\",\"sloc\":\"1,6814,14582\",\"infocate\":\"574,606,2169\"}",
+                    "userId": 37814278849039,
+                    "userName": "乔宏宇",
+                    "workYear": "1-2年"
+                },
+                "shopPhoto": ""
+            },
+            {
+                "aliasName": "丹隆云创",
+                "cityIndustryScale": "零售业 · 10-49人",
+                "dataType": 0,
+                "dataTypeStr": "entDict",
+                "detailUrl": "wbganji://jump/core/common?params=%7B%22settings%22%3A%7B%22contain_status_bar%22%3Afalse%2C%22hide_title_panel%22%3Atrue%7D%2C%22webType%22%3A%22wkWebview%22%2C%22url%22%3A%22https%3A%2F%2Fgjbusiness.ganji.com%2Fenterprise%2Fhomepage%3Fqid%3D6212823350%26cityid%3D1%26listindex%3D34%26from%3Dpc_list%26visitmark%3D8ee01108-ebc6-41c7-9e4c-0ad27f95273e%26datatype%3D0%26cursorindex%3D34%22%7D",
+                "entStoreVO": {
+                    "address": "北京市东城区百荣世贸商城1D020-022",
+                    "coordinate": "116.40527,39.86613",
+                    "id": 86003487337,
+                    "name": "SKYHOMME",
+                    "postdate": "2022/01/12",
+                    "qid": 6212823350,
+                    "video": "https://wos2.58cdn.com.cn/DeFazYxWvDti/frsupload/8f1677375bc764e3eab5e0cd3c2278d3.mp4",
+                    "videoImg": "https://pic4.58cdn.com.cn/nowater/frs/n_v27cb68f6662f84bb1ab7dcee3c401d783.jpg"
+                },
+                "enterpriseName": "北京丹隆云创商贸有限公司",
+                "enterpriseTagNamesV2": [
+                    {
+                        "tagName": "包吃"
+                    },
+                    {
+                        "tagName": "包住"
+                    },
+                    {
+                        "tagName": "房补"
+                    }
+                ],
+                "hotJobCount": 2,
+                "logo": "",
+                "qid": 6212823350,
+                "recommendJob": {
+                    "apply": 0,
+                    "cateName": "店员/营业员",
+                    "city": "西城·西单",
+                    "education": "学历不限",
+                    "headPortrait": "https://pic1.58cdn.com.cn/m1/bigimage/n_v23d3e5d3aa9fb4d978ffeda5c472008b5.jpg",
+                    "identity": "",
+                    "infoId": 42444965611815,
+                    "localId": 1,
+                    "mdetailUrl": "http://m.ganji.com/bj/chaoshishangye/42444965611815/?tjfrom=m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123739__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQyNDQ0OTY1NjExODE1Iiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "salary": "5000-8000元",
+                    "state": 0,
+                    "subTitle": "西城·西单·学历不限·1-2年",
+                    "tags": [
+                        {
+                            "tagName": "交通补助"
+                        },
+                        {
+                            "tagName": "加班补助"
+                        },
+                        {
+                            "tagName": "饭补"
+                        },
+                        {
+                            "tagName": "房补"
+                        }
+                    ],
+                    "title": "西单服装连锁招聘店助店员",
+                    "tjfrom": "m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123739__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQyNDQ0OTY1NjExODE1Iiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "traceLogExt": "{\"scate\":\"9224,13802,13810\",\"infotype\":\"5,I\",\"b\":24560922296070,\"infolocal\":\"1,1139,1173\",\"c\":\"A507542E471A074549460CF007328E0A\",\"sloc\":\"1,1139,1173\",\"infocate\":\"574,706,2488\"}",
+                    "userId": 24560922296070,
+                    "userName": "叶丹",
+                    "workYear": "1-2年"
+                },
+                "shopPhoto": ""
+            },
+            {
+                "aliasName": "邻居佳",
+                "cityIndustryScale": "机动车、电子产品和日用产品修理业 · 10-49人",
+                "dataType": 0,
+                "dataTypeStr": "entDict",
+                "detailUrl": "wbganji://jump/core/common?params=%7B%22settings%22%3A%7B%22contain_status_bar%22%3Afalse%2C%22hide_title_panel%22%3Atrue%7D%2C%22webType%22%3A%22wkWebview%22%2C%22url%22%3A%22https%3A%2F%2Fgjbusiness.ganji.com%2Fenterprise%2Fhomepage%3Fqid%3D6467503968%26cityid%3D1%26listindex%3D35%26from%3Dpc_list%26visitmark%3D8ee01108-ebc6-41c7-9e4c-0ad27f95273e%26datatype%3D0%26cursorindex%3D35%22%7D",
+                "entStoreVO": {
+                    "address": "北京市东城区广渠家园11楼地下201号",
+                    "coordinate": "116.511135,39.90055",
+                    "id": 85893044123,
+                    "name": "张宽养车",
+                    "postdate": "2022/01/13",
+                    "qid": 6467503968,
+                    "video": "https://wos2.58cdn.com.cn/DeFazYxWvDti/frsupload/133f5a6084c58a3ed16b0020696c54df.mp4",
+                    "videoImg": "https://pic4.58cdn.com.cn/nowater/frs/n_v29f6be5d9a8004ef09c978b8af623fdb3.jpg"
+                },
+                "enterpriseName": "北京邻居佳汽车维修有限公司",
+                "enterpriseTagNamesV2": [
+                    {
+                        "tagName": "VR实景"
+                    },
+                    {
+                        "tagName": "五险一金"
+                    },
+                    {
+                        "tagName": "包吃"
+                    },
+                    {
+                        "tagName": "包住"
+                    }
+                ],
+                "hotJobCount": 18,
+                "logo": "",
+                "qid": 6467503968,
+                "recommendJob": {
+                    "apply": 0,
+                    "cateName": "汽车美容",
+                    "city": "北京",
+                    "education": "学历不限",
+                    "headPortrait": "https://pic1.58cdn.com.cn/m1/bigimage/n_v23fc603f1fa4c4cdcaf468a9790677121.jpg",
+                    "identity": "总经理",
+                    "infoId": 33368448262864,
+                    "localId": 1,
+                    "mdetailUrl": "http://m.ganji.com/bj/zpqiche/33368448262864/?tjfrom=m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123740__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjMzMzY4NDQ4MjYyODY0Iiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "salary": "6000-12000元",
+                    "state": 0,
+                    "subTitle": "北京·学历不限·3-5年",
+                    "tags": [
+                        {
+                            "tagName": "包吃"
+                        },
+                        {
+                            "tagName": "包住"
+                        },
+                        {
+                            "tagName": "加班补助"
+                        }
+                    ],
+                    "title": "高薪招聘汽车美容技师",
+                    "tjfrom": "m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123740__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjMzMzY4NDQ4MjYyODY0Iiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "traceLogExt": "{\"scate\":\"9224,13923,9770\",\"infotype\":\"5,I\",\"b\":47235287062807,\"infolocal\":\"1,1138,1182\",\"c\":\"A507542E471A074549460CF007328E0A\",\"sloc\":\"1,1138,1182\",\"infocate\":\"574,616,3077\"}",
+                    "userId": 47235287062807,
+                    "userName": "张宽",
+                    "workYear": "3-5年"
+                },
+                "vRbean": {
+                    "coverImgPath": "https://pic1.58cdn.com.cn/vrplatform/n_v2b0f39e9c51be4b0abc1c6316b6be7866.jpg",
+                    "vrPath": {
+                        "tradeline": "job",
+                        "action": "pagetrans",
+                        "content": {
+                            "pagetype": "common",
+                            "webType": "wkWebview",
+                            "showsift": true,
+                            "title": "北京邻居佳汽车维修有限公司",
+                            "url": "https://entdict.ganji.com/vr/entdicId/6467503968"
+                        }
+                    }
+                }
+            },
+            {
+                "aliasName": "鸥情老年",
+                "cityIndustryScale": " · 10-49人",
+                "dataType": 0,
+                "dataTypeStr": "entDict",
+                "detailUrl": "wbganji://jump/core/common?params=%7B%22settings%22%3A%7B%22contain_status_bar%22%3Afalse%2C%22hide_title_panel%22%3Atrue%7D%2C%22webType%22%3A%22wkWebview%22%2C%22url%22%3A%22https%3A%2F%2Fgjbusiness.ganji.com%2Fenterprise%2Fhomepage%3Fqid%3D25068225353%26cityid%3D1%26listindex%3D36%26from%3Dpc_list%26visitmark%3D8ee01108-ebc6-41c7-9e4c-0ad27f95273e%26datatype%3D0%26cursorindex%3D36%22%7D",
+                "entStoreVO": {
+                    "address": "北京市昌平区马池口镇土楼村东南",
+                    "coordinate": "116.146896,40.192127",
+                    "id": 85892709710,
+                    "name": "鸥情老年颐养院",
+                    "postdate": "2022/11/10",
+                    "qid": 25068225353,
+                    "video": "https://wos2.58cdn.com.cn/DeFazYxWvDti/frsupload/d0f651859486ce072e60911974cc8d7b.mp4",
+                    "videoImg": "https://pic6.58cdn.com.cn/nowater/frs/n_v21c943b605c684ea99454d2d1b3a81c8f.jpg"
+                },
+                "enterpriseName": "北京市昌平区鸥情老年颐养院",
+                "enterpriseTagNamesV2": [
+                    {
+                        "tagName": "包吃"
+                    },
+                    {
+                        "tagName": "包住"
+                    },
+                    {
+                        "tagName": "周末双休"
+                    }
+                ],
+                "hotJobCount": 2,
+                "logo": "",
+                "qid": 25068225353,
+                "recommendJob": {
+                    "apply": 0,
+                    "cateName": "护工",
+                    "city": "昌平·阳坊",
+                    "education": "学历不限",
+                    "headPortrait": "https://pic1.58cdn.com.cn/m1/bigimage/n_v26953c7094f0749d0ab3f3b4c10f701e2.jpg",
+                    "identity": "",
+                    "infoId": 48449330853817,
+                    "localId": 1,
+                    "mdetailUrl": "http://m.ganji.com/bj/jiazhengbaojiexin/48449330853817/?tjfrom=m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123741__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ4NDQ5MzMwODUzODE3Iiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "salary": "4200-5500元",
+                    "state": 0,
+                    "subTitle": "昌平·阳坊·学历不限·1-2年",
+                    "tags": [
+                        {
+                            "tagName": "包吃"
+                        },
+                        {
+                            "tagName": "包住"
+                        },
+                        {
+                            "tagName": "加班补助"
+                        }
+                    ],
+                    "title": "养老院护工",
+                    "tjfrom": "m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123741__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ4NDQ5MzMwODUzODE3Iiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "traceLogExt": "{\"scate\":\"9224,13931,28713\",\"infotype\":\"5,I\",\"b\":73002347811081,\"infolocal\":\"1,1150,6058\",\"c\":\"A507542E471A074549460CF007328E0A\",\"sloc\":\"1,1150,6058\",\"infocate\":\"574,625,2440\"}",
+                    "userId": 73002347811081,
+                    "userName": "82ryd9sy6",
+                    "workYear": "1-2年"
+                },
+                "shopPhoto": ""
+            },
+            {
+                "aliasName": "云客串亭",
+                "cityIndustryScale": "餐饮业 · 10-49人",
+                "dataType": 0,
+                "dataTypeStr": "entDict",
+                "detailUrl": "wbganji://jump/core/common?params=%7B%22settings%22%3A%7B%22contain_status_bar%22%3Afalse%2C%22hide_title_panel%22%3Atrue%7D%2C%22webType%22%3A%22wkWebview%22%2C%22url%22%3A%22https%3A%2F%2Fgjbusiness.ganji.com%2Fenterprise%2Fhomepage%3Fqid%3D6254627043%26cityid%3D1%26listindex%3D37%26from%3Dpc_list%26visitmark%3D8ee01108-ebc6-41c7-9e4c-0ad27f95273e%26datatype%3D0%26cursorindex%3D37%22%7D",
+                "entStoreVO": {
+                    "address": "北京市东城区东直门外大街42号(二层)",
+                    "coordinate": "116.444037,39.946026",
+                    "id": 86003487336,
+                    "name": "湘遇京华湘菜",
+                    "postdate": "2022/01/13",
+                    "qid": 6254627043,
+                    "video": "https://wos2.58cdn.com.cn/DeFazYxWvDti/frsupload/aeb50c021c005fd004212fb6ef702f79.mp4",
+                    "videoImg": "https://pic4.58cdn.com.cn/nowater/frs/n_v258619c529e924b889ace8a9002fd8109.jpg"
+                },
+                "enterpriseName": "云客串亭餐饮（北京）有限公司",
+                "enterpriseTagNamesV2": [
+                    {
+                        "tagName": "VR实景"
+                    },
+                    {
+                        "tagName": "包吃"
+                    },
+                    {
+                        "tagName": "包住"
+                    },
+                    {
+                        "tagName": "免费培训"
+                    }
+                ],
+                "hotJobCount": 6,
+                "logo": "",
+                "qid": 6254627043,
+                "recommendJob": {
+                    "apply": 0,
+                    "cateName": "服务员",
+                    "city": "东城·东直门",
+                    "education": "学历不限",
+                    "headPortrait": "https://pic1.58cdn.com.cn/m1/bigimage/n_v243798048d95246c7bba26db1ea8fb3a0.jpg",
+                    "identity": "",
+                    "infoId": 47675304825367,
+                    "localId": 1,
+                    "mdetailUrl": "http://m.ganji.com/bj/zplvyoujiudian/47675304825367/?tjfrom=m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123742__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ3Njc1MzA0ODI1MzY3Iiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "salary": "4000-6000元",
+                    "state": 0,
+                    "subTitle": "东城·东直门·学历不限·经验不限",
+                    "tags": [
+                        {
+                            "tagName": "包吃"
+                        },
+                        {
+                            "tagName": "包住"
+                        },
+                        {
+                            "tagName": "五险一金"
+                        }
+                    ],
+                    "title": "包吃+包住聘服务员",
+                    "tjfrom": "m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123742__pt__5,I__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ3Njc1MzA0ODI1MzY3Iiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "traceLogExt": "{\"scate\":\"9224,13915,9640\",\"infotype\":\"5,I\",\"b\":71542115876637,\"infolocal\":\"1,1138,1156\",\"c\":\"A507542E471A074549460CF007328E0A\",\"sloc\":\"1,1138,1156\",\"infocate\":\"574,606,2169\"}",
+                    "userId": 71542115876637,
+                    "userName": "顽强的元芳",
+                    "workYear": "经验不限"
+                },
+                "vRbean": {
+                    "coverImgPath": "https://pic1.58cdn.com.cn/vrplatform/n_v2768c917dc4834a8d8dcb845abf5c914e.jpg",
+                    "vrPath": {
+                        "tradeline": "job",
+                        "action": "pagetrans",
+                        "content": {
+                            "pagetype": "common",
+                            "webType": "wkWebview",
+                            "showsift": true,
+                            "title": "云客串亭餐饮（北京）有限公司",
+                            "url": "https://entdict.ganji.com/vr/entdicId/6254627043"
+                        }
+                    }
+                },
+                "videoBean": [
+                    {
+                        "videoPath": {
+                            "tradeline": "job",
+                            "action": "pagetrans",
+                            "content": {
+                                "picurl": "/userauth/pp/n_v2ccde1696ff214673a8a105feb621d414.jpg?w=544&h=1132",
+                                "pagetype": "video",
+                                "videoCoverFillMode": "scaleAspectFit",
+                                "title": "云客串亭餐饮（北京）有限公司",
+                                "url": "https://wos.58cdn.com.cn/RsPoNmLkRXw/zcmcompanyvideo/zcm_a15772756182969ee481c3-ccaf-41af-bfff-ea70113b51a6.mp4",
+                                "autoplay": true
+                            }
+                        },
+                        "videoPicture": "/userauth/pp/n_v2ccde1696ff214673a8a105feb621d414.jpg"
+                    }
+                ]
+            },
+            {
+                "aliasName": "飞焱餐饮",
+                "cityIndustryScale": "食品、饮料及烟草制品批发 · 10-49人",
+                "dataType": 0,
+                "dataTypeStr": "entDict",
+                "detailUrl": "wbganji://jump/core/common?params=%7B%22settings%22%3A%7B%22contain_status_bar%22%3Afalse%2C%22hide_title_panel%22%3Atrue%7D%2C%22webType%22%3A%22wkWebview%22%2C%22url%22%3A%22https%3A%2F%2Fgjbusiness.ganji.com%2Fenterprise%2Fhomepage%3Fqid%3D41991494587%26cityid%3D1%26listindex%3D38%26from%3Dpc_list%26visitmark%3D8ee01108-ebc6-41c7-9e4c-0ad27f95273e%26datatype%3D0%26cursorindex%3D38%22%7D",
+                "entStoreVO": {
+                    "address": "北京市昌平区悦荟万科广场6层",
+                    "coordinate": "116.245933,40.217934",
+                    "id": 86003487547,
+                    "name": "汉江山",
+                    "postdate": "2022/01/19",
+                    "qid": 41991494587,
+                    "video": "https://wos2.58cdn.com.cn/DeFazYxWvDti/frsupload/e95de00a389167d5241f8d21a31c339a.mp4",
+                    "videoImg": "https://pic3.58cdn.com.cn/nowater/frs/n_v210f3edf0c4244ac598d70df652ca7231.jpg"
+                },
+                "enterpriseName": "北京飞焱餐饮管理有限公司",
+                "enterpriseTagNamesV2": [
+                    {
+                        "tagName": "包吃"
+                    },
+                    {
+                        "tagName": "房补"
+                    },
+                    {
+                        "tagName": "免费培训"
+                    }
+                ],
+                "hotJobCount": 7,
+                "logo": "",
+                "qid": 41991494587,
+                "recommendJob": {
+                    "apply": 0,
+                    "cateName": "普工",
+                    "city": "昌平·昌平县城",
+                    "education": "学历不限",
+                    "headPortrait": "",
+                    "identity": "",
+                    "infoId": 48960119027501,
+                    "localId": 1,
+                    "mdetailUrl": "http://m.ganji.com/bj/zpshengchankaifa/48960119027501/?tjfrom=m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123743__pt__5__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ4OTYwMTE5MDI3NTAxIiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "salary": "4500-5000元",
+                    "state": 0,
+                    "subTitle": "昌平·昌平县城·学历不限·经验不限",
+                    "tags": [
+                        {
+                            "tagName": "包吃"
+                        },
+                        {
+                            "tagName": "年底双薪"
+                        },
+                        {
+                            "tagName": "房补"
+                        },
+                        {
+                            "tagName": "加班补助"
+                        }
+                    ],
+                    "title": "后厨普工",
+                    "tjfrom": "m_ganji_enterprise_zone_best_job_mxn__130552640215513267136044225__389510473610123743__pt__5__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjQ4OTYwMTE5MDI3NTAxIiwic2xvdCI6Im1fZ2FuamlfZW50ZXJwcmlzZV96b25lX2Jlc3Rfam9iX214biIsInR5cGUiOiIxNDkiLCJzaWQiOiIxMzA1NTI2NDAyMTU1MTMyNjcxMzYwNDQyMjUiLCJ1dG0iOiIifSwidCI6MSwidiI6MX0%3D",
+                    "traceLogExt": "{\"scate\":\"9224,13916,9753\",\"infotype\":\"5\",\"b\":64999696626704,\"infolocal\":\"1,1150,7417\",\"c\":\"A507542E471A074549460CF007328E0A\",\"sloc\":\"1,1150,7425\",\"infocate\":\"574,607,2553\"}",
+                    "userId": 64999696626704,
+                    "userName": "xdnhqd69a",
+                    "workYear": "经验不限"
+                },
+                "shopPhoto": ""
+            }
+        ]
+    }
+}
