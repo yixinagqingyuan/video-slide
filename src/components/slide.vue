@@ -18,6 +18,7 @@
 import { defineComponent, ref } from "vue";
 import Yvideo from "./video.vue";
 import { Swiper, SwiperSlide } from "swiper/vue";
+import "swiper/css";
 export default defineComponent({
   props: {
     list: {

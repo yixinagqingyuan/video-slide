@@ -4,7 +4,7 @@
 
 介绍
 
-基于 Vue 3.0 的高仿抖音插件，其中包含两个插件
+基于 Vue 3.0 和swiper的高仿抖音插件，其中包含两个插件
 
 * Yslide
 
@@ -15,7 +15,7 @@ Yvideo也可单独使用
 # 安装依赖
 
 ```
-npm i video-slide swiper
+npm i video-slide
 
 // 全局使用
 import  videoSlide from 'video-slide'
